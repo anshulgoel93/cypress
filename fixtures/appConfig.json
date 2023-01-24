@@ -1,0 +1,24 @@
+{
+    
+"adminURL" : "https://adminuat.lockthedeal.com/",
+"mpSellerMobile" : "4567890123",
+"mpSellerPasscode" : "1111",
+"sellerDashboardURL": "/seller/index",
+"offersPageURL": "/seller/offers",
+"addOfferPageURL": "/seller/addoffer",
+"incorrectSearchText": "Exide",
+"correctSearchText": "Nokia",
+"offerPrice":"500",
+"regularPrice":"600",
+"realQty":"50",
+"addminimumOrderQtyText":"1",
+"Alertmsg": "Brand Is Not Mapped Or Not Available.",
+"OfferLiqURL": "/seller/offers?filter=liquidation",
+"Updateprice":"499",
+"Updatereatqtyvalue": "100",
+
+"FRPSellerMobile" : "7001700197",
+"FRPSellerPasscode" : "1111"
+
+
+}
