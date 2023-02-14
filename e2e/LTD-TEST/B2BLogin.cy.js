@@ -81,7 +81,9 @@ describe('Login from user', () => {
 
     it.skip('ResponceBySeller',()=> {
 
-        Loginpage.ResponceBySeller()
+        Loginpage
+        
+        .ResponceBySeller()
     })
 
 })
